@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Vishwajeet 👋
+I'm a final-year Computer Science student at IIITDM Jabalpur, specializing in building modern web and mobile applications.
 
-<!--
-**vishwajeettoppo/vishwajeettoppo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- **Frontend**: React.js, Next.js, HTML, CSS, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Tools**: Git, VS Code, Postman, Figma
+- **Databases**: MongoDB, Firebase
 
-Here are some ideas to get you started:
+## 🛠️ Projects
+- [SelfEd](https://github.com/vishwajeettoppo/SelfEd): AI-powered learning platform for personalized course creation.
+- [Portfolio Website](https://vishwajeettoppoprofile.vercel.app/): Showcasing my work with Next.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: [vishutoppo09@gmail.com](mailto:vishutoppo09@gmail.com)
+- LinkedIn: [Vishwajeet](https://linkedin.com/in/vishwajeettoppo)
