@@ -8,7 +8,7 @@ I'm a final-year Computer Science student at IIITDM Jabalpur, specializing in bu
 - **Databases**: MongoDB, Firebase
 
 ## 🛠️ Projects
-- [SelfEd]([https://github.com/vishwajeettoppo/SelfEd](https://selfed01--im10tarfp6.expo.app/)): AI-powered learning platform for personalized course creation.
+- [SelfEd](https://selfed01--im10tarfp6.expo.app/): AI-powered learning platform for personalized course creation.
 - [Portfolio Website](https://vishwajeettoppoprofile.vercel.app/): Showcasing my work with Next.js.
 
 ## 📫 Contact Me
