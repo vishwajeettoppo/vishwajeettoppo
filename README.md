@@ -1,5 +1,5 @@
 # Hi there, I'm Vishwajeet 👋
-I'm a final-year Computer Science student at IIITDM Jabalpur, specializing in building modern web and mobile applications.
+I'm a graduate with a B.Tech in Computer Science from IIITDM Jabalpur, specializing in full-stack development, building modern web and mobile applications.
 
 ## 🚀 Skills
 - **Frontend**: React.js, Next.js, HTML, CSS, Tailwind CSS
@@ -13,4 +13,4 @@ I'm a final-year Computer Science student at IIITDM Jabalpur, specializing in bu
 
 ## 📫 Contact Me
 - Email: [vishutoppo09@gmail.com](mailto:vishutoppo09@gmail.com)
-- LinkedIn: [Vishwajeet](https://linkedin.com/in/vishwajeettoppo)
+- LinkedIn: [https://www.linkedin.com/in/vishwajeettoppo/](https://linkedin.com/in/vishwajeettoppo)
